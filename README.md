@@ -5,3 +5,6 @@ Create - and play - a YouTube playlist
 
 ## Requirements
 To create YouTube playlists of unplayed videos from groups of subscriptions (collections) ordered by date published, most to least recent, up to a given period.
+
+## Links
+[You Tube Data API](https://developers.google.com/youtube/v3/getting-started)
