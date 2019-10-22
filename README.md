@@ -8,3 +8,5 @@ To create YouTube playlists of unplayed videos from groups of subscriptions (col
 
 ## Links
 [You Tube Data API](https://developers.google.com/youtube/v3/getting-started)
+
+[Google API Python Client](https://github.com/googleapis/google-api-python-client)
